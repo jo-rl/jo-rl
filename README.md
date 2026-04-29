@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:302b63&height=140&section=header&text=jo-rl&fontSize=42&fontColor=00C49F&animation=fadeIn"/>
 
-<h1 align="center">🚀 Bashar | Fintech & Blockchain Engineer</h1>
+<h1 align="center">| Fintech & Blockchain Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C49F&center=true&vCenter=true&width=700&lines=Building+the+Future+of+Finance;Smart+Contracts+%7C+DeFi+%7C+AI;Secure+Systems+%7C+Payments+%7C+Blockchain;Turning+Code+into+Financial+Innovation" />
